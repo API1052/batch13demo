@@ -6,6 +6,7 @@ class Demo{
 	System.out.println("Namastay");
 	System.out.println("Oye");
 	System.out.println("Broski");
+	System.out.println("Sayonara");
 }
 
 }
